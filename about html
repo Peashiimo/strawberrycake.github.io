@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <title>My Recipe Blog</title>
+ </head>
+ <body>
+   <article>
+     <h1>Parfait Perfect</h1>
+     <h2>Me</h2>
+     <p>Hi, it's peashiimo! I hope you enjoyed my recipe blog almost as much as I liked developing it. If you want to check out more of my work you can check my GitHub account. I also take commissions</p>
+     <h2>Credits to:</h2>
+     <ul>
+       <li>unsplash.com for the images</li>
+       <li>foodnetwork.co.uk for the ingredient list and recipe</li>
+     </ul>
+   </article>
+   <footer>
+    <p>&copy; 2019 peashiimo</p>
+   <footer>
+ </body>
+</html>
